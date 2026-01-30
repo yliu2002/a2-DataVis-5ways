@@ -1,5 +1,6 @@
 d3
 ![Alt text](img\d3_file_penguin_size_by_species.jpg)
+<img src="img\d3_file_penguin_size_by_species.jpg" alt="Alt text" width="500" height="300">
 I started with JS/d3. I used d3.csv() to import my data into the plot and instead of const width/const height. I used the d3 website the most to help me through the process of all the functions. (https://d3js.org/ and https://stackoverflow.com/questions/15417437/d3-js-loading-local-data-file-from-file just to try to get it explained to me)
 
 
